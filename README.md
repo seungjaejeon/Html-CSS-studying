@@ -32,11 +32,13 @@ a hrex="folder 1/folder 2/index.html" 폴더 1과 폴더 2 안에 있는 index�
 
 img src="이미지 주소  width="300" height="300"
 
-![기본태그](./image/기본태그.PNG)
-![내용입력](./image/내용입력.PNG)
-![내용입력2](.image/내용입력2.PNG)
-![목록입력](.image/목록입력.PNG)
-![문서구조태그](.image/문서구조태그.PNG)
-![문서구조태그2](.image/문서구조태그2.PNG)
-![이미지삽입](.image/이미지삽입.PNG)
-![하이퍼링크삽입](.image/하이퍼링크삽입.PNG)
+
+![기본태그](https://user-images.githubusercontent.com/52797720/181934197-d230f4e4-b27e-4fe6-84e4-96eeabe9bc49.PNG)
+![내용입력](https://user-images.githubusercontent.com/52797720/181934200-fb73fcec-de14-4fd6-a5e4-41c644b21143.PNG)
+
+![내용입력2](https://user-images.githubusercontent.com/52797720/181934204-b0095cbc-2fc6-4e63-b92a-5126635f9da5.PNG)
+![목록입력](https://user-images.githubusercontent.com/52797720/181934207-e27f796d-210f-4b5a-82f8-3fe22ac8b5f3.PNG)
+![문서구조태그](https://user-images.githubusercontent.com/52797720/181934212-d7c828f5-5dab-4e51-8992-f60b5f74293f.PNG)
+![문서구조태그2](https://user-images.githubusercontent.com/52797720/181934214-97dff094-30f3-4988-8796-e538ac5652fc.PNG)
+![이미지삽입](https://user-images.githubusercontent.com/52797720/181934218-043c9d23-aa53-4cb8-8a25-f90380b0832a.PNG)
+![하이퍼링크삽입](https://user-images.githubusercontent.com/52797720/181934219-da832a4d-2991-4557-90b6-fbe28da2e8c3.PNG)
