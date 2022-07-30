@@ -32,3 +32,4 @@ a hrex="folder 1/folder 2/index.html" 폴더 1과 폴더 2 안에 있는 index�
 
 img src="이미지 주소  width="300" height="300"
 
+![기본태그](이미지 URL)
